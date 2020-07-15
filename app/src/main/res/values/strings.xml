@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quality Assurance System</string>
+    <string name="add_score">Add Score</string>
+    <string name="remove_score">Remove Score</string>
+    <string name="go_back">Go back</string>
+    <string name="hospital">HOSPITAL</string>
+</resources>
